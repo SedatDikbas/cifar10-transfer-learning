@@ -2,9 +2,6 @@
 Bu proje, CIFAR-10 veri seti üzerinde transfer öğrenme yöntemlerini kullanarak görüntü sınıflandırma yapmayı amaçlamaktadır. Farklı derin öğrenme modelleri (VGG16, InceptionV3, ResNet50, MobileNetV2, DenseNet121) ile eğitim yapılmış ve her modelin performansı karışıklık matrisleri ile değerlendirilmiştir.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
-# CIFAR-10 Transfer Learning Project
-
-Bu proje, CIFAR-10 veri setini kullanarak çeşitli derin öğrenme modelleri ile görüntü sınıflandırma yapmayı amaçlamaktadır. Transfer öğrenme yöntemleriyle önceden eğitilmiş modeller kullanılarak, modelin performansı artırılmaya çalışılmıştır.
 
 ## Kullanılan Kütüphaneler
 
